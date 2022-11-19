@@ -1,4 +1,4 @@
 # Resume
 My latest Resume
 
-[Ahmet_KARA_CV.pdf](https://github.com/AhmetQara/Resume/files/9553097/Ahmet_KARA_CV.pdf)
+[CV_Ahmet_KARA.pdf](https://github.com/AhmetQara/Resume/files/10046820/CV_Ahmet_KARA.pdf)
